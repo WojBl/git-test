@@ -1,7 +1,6 @@
 # trololo
 print("Hello world")
-# to rejection
 
-#new line
-#modification
-11.03.2020
+# modification
+# another modification
+date = "11.03.2020"
